@@ -1,0 +1,22 @@
+body
+{
+    background-color: blue;
+    background-image: url(All_Might.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+p
+{
+    background-color: white;
+    font-family: arial;
+}
+p.classification
+{
+    background-color: transparent;
+    font-family: arial;
+    font-size: 16pt;
+}
+a:hover
+{
+    background-color: grey;
+}
